@@ -1,4 +1,4 @@
-var http = require('https'),
+var http = require('http'),
    config = require('./config'),
    fileHandler = require('./filehandler'),
    parse = require('url').parse,
