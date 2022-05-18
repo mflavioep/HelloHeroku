@@ -1,0 +1,8 @@
+div {
+       align-self: center; 
+       font-family: arial, helvetica;
+       font-size: 16px;
+       width: 20%;       
+       border: 2px solid blue;
+       border-radius: 8px;
+  }
